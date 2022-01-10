@@ -8,6 +8,6 @@ import (
 func main() {
 	var num int
 	fmt.Scan(&num)
-
+sdasdasdasd
 
 }
